@@ -38,6 +38,8 @@ Data Visualization
 Dashboard Design
 
 ## 📷 Dashboard Preview
+![Dashboard](Review.png)
+
 
 ## 📈 Key Insights
 Sales show a consistent upward trend over the years
